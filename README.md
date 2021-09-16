@@ -7,9 +7,9 @@ Setup:
 3. In the python installer, select “Add Python 3.9 to PATH”, and then click install now
 4. Open command prompt. Type “pip help” to see if pip is installed (it should be). If you get a big help message, pip is installed. If not, figure out how to install pip with google
 5. You need to install the necessary packages to run the python file. You’ll use pip to install those. In command prompt, run the following commands (and let each one finish before doing the next)
-pip install bs4
-pip install cloudscraper
-pip install easygui
+a. pip install bs4
+b. pip install cloudscraper
+c. pip install easygui
 6. You should now be able to change directories to get to your downloads directory. The command “cd downloads” should work
 7. Type the command “python VCBot.py” or “python isos.py”. If everything went well, this should run the program.
 
